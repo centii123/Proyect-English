@@ -1,0 +1,20 @@
+.lineas{
+    height: 4px;
+    width: 30%;
+}
+.navbar{
+    background-color: rgb(0, 168, 168);
+    height: 80px;
+}
+.tamaño{
+    height: 250px;
+}
+.alto{
+    height: 200px;
+}
+.circulo{
+    margin: 0 6px 0 0;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
